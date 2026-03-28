@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7a305cf4-219c-4721-a879-c5bec1207d8d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/commands/HelpCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/commands/book/BookCancelCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/commands/book/BookCreateCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/commands/book/BookListCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/commands/book/BookRescheduleCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/commands/book/BookShowCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/commands/checkout/CheckoutListCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/commands/checkout/CheckoutReturnCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/commands/checkout/CheckoutShowCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/commands/checkout/CheckoutTakeCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/commands/instrument/InstAvailableCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/managers/AppManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/managers/BookingManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/managers/CheckoutManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/managers/InstrumentManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/models/Booking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/models/Checkout.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/models/Instrument.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/InfochemLab1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/InfochemLab1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/commands/AddCommand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/commands/ClearCommand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/commands/Command.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/commands/Command.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/commands/ExitCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/commands/ExitCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/commands/HelpCommand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/commands/RemoveByIdCommand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/commands/ShowCommand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/commands/UpdateCommand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/managers/CollectionManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/managers/ConsoleManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/Coordinates.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/models/Coordinates.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/FuelType.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/models/FuelType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/models/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/VehicleType.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/models/VehicleType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/IdGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/utils/IdGenerator.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="InfochemLab1" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleScriptDefinitionsStorage" workingDir="$PROJECT_DIR$" gradleHome="C:\Users\maksa\.gradle\wrapper\dists\gradle-9.4.0-bin\lcvyxq3t37f6mx9miaydrrgs\gradle-9.4.0" javaHome="C:\Users\maksa\.jdks\openjdk-24.0.2+12-54" gradleVersion="9.4.0" />
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="3BYy5wpepZ7MSvxSjV7kGzi5McQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Coverage",
+    "Gradle.AppTest.executor": "Run",
+    "Gradle.Build InfochemLab1.executor": "Run",
+    "Gradle.Run App.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "settings.editor.selected.configurable": "File.Encoding"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Run App" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="C:\Users\maksa\Desktop\1414\InfochemLab1\app" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="run" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7a305cf4-219c-4721-a879-c5bec1207d8d" name="Changes" comment="" />
+      <created>1774680119454</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1774680119454</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/InfochemLab1$Main.ic" NAME="Main Coverage Results" MODIFIED="1774687733599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true" />
+  </component>
+</project>
